@@ -1,6 +1,4 @@
-Step 1: To be able top run the project notebook go to https://data.cityofnewyork.us/Public-Safety/NYPD-Arrests-Data-Historic-/8h9b-rp9u\
-Step 2: Click Export then CSV in top right corner
-Step 3: Put the exported CSV into Resources folder
+Using public data from city of New York performed analysis to understand the correlation between low income zip codes and high crime rates.
 
 GROUP MEMBERS ARE
 1. Anika Tabssum
